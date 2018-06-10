@@ -13,6 +13,8 @@ Os *themes* em suma alteram diretamente a aparência do site, como a cor da barr
 Em geral, a maioria do temas possui versões demonstrações (*free*) e versões pagas. As versões pagas geralmente contam com mais recursos e mais opções de customizações. Existem ainda temas que só possuem versões gratuídas de altíssima qualidade. Portanto a escolha de um tema requer certa atenção para garantir que o resultado final seja de agrado do desenvolvedor.
 
 ## Plugins
+
+
 ## Elementor
 ### Theme compatível
 

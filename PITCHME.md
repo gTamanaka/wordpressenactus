@@ -42,3 +42,28 @@ Resultado:
     <h2>Titulo do card</h2>
     <p>Esse é o conteudo do card</p> 
 </div>
+
+---
+## Theme Compatível
++++
+
+**Busca** Which Themes Work Best with Elementor?
+
++++
+### Customizando o tema
+
+```
+.navbar{
+	background-color:#2c2c2c
+}
+.navbar.navbar-transparent{
+	background-color:#2c2c2c;
+		background-color:rgba(0,0,0,0);
+}
+.navbar button.navbar-toggle, .navbar, .navbar-default .navbar-nav>.active>a {
+	color:white
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+	background-color:rgba(0,0,0,0.2);
+}
+```

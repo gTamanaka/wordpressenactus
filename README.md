@@ -21,16 +21,18 @@ O Elementor é um *plugin* do tipo *page builder*, ou seja, sua funcionalidade r
 
 Por exemplo para construir um elemento muito poupular no Google Material, o *card* o código seria mais ou menos esse aqui:
 
-    <div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+    <div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%;background-color:white;color:black">
         <h2>Titulo do card</h2>
         <p>Esse é o conteudo do card</p> 
     </div>
 
 Resultado:
-<div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+<div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%;background-color:white;color:black">
     <h2>Titulo do card</h2>
     <p>Esse é o conteudo do card</p> 
 </div>
+
+
 
 ### Theme compatível
 

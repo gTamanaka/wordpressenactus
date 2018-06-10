@@ -30,13 +30,14 @@ Os *themes* em suma alteram diretamente a aparência do site, como a cor da barr
 
 +++
 
-    <div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+    <div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; background-color:white;color:black">
         <h2>Titulo do card</h2>
         <p>Esse é o conteudo do card</p> 
     </div>
 
++++
 Resultado:
-<div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+<div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey;background-color:white;color:black">
     <h2>Titulo do card</h2>
     <p>Esse é o conteudo do card</p> 
 </div>

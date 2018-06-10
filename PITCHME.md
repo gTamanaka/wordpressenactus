@@ -6,9 +6,11 @@
 
 +++
 
-Gustavo T. B. Tamanaka
-Engenheiro Mecânico - UFSCar
-Dessenvolvedor Web e Embarcados.
+### Gustavo T. B. Tamanaka
+#### Engenheiro Mecânico - UFSCar
+#### Dessenvolvedor Web e Embarcados.
+
+---
 
 ## Wordpress
 

@@ -8,7 +8,7 @@
 
 ### Gustavo T. B. Tamanaka
 #### Engenheiro Mecânico - UFSCar
-#### Dessenvolvedor Web e Embarcados.
+#### Desenvolvedor Web e Embarcados.
 
 ---
 
@@ -22,6 +22,21 @@ O Wordpress é uma tecnologia desenvolvida para a criação de blogs que rapidam
 
 +++
 
-Os *themes* em suma alteram diretamente a aparência do site, como a cor da barra, como a informação vai ser diagramada, quais as plateas de cores, etc.
+Os *themes* em suma alteram diretamente a aparência do site, como a cor da barra, como a informação vai ser diagramada, quais as paletas de cores, etc.
 
 ---
+
+## Elementor
+
++++
+
+    <div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+        <h2>Titulo do card</h2>
+        <p>Esse é o conteudo do card</p> 
+    </div>
+
+Resultado:
+<div style="padding:8px 16px; box-shadow: 0 0 10px 1px lightgrey; width: 30%">
+    <h2>Titulo do card</h2>
+    <p>Esse é o conteudo do card</p> 
+</div>

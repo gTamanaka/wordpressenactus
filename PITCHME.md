@@ -1,6 +1,14 @@
-# Introdução ao Wordpress e o Elementor
+## Introdução ao Wordpress e o Elementor
 
 ---
+
+## Quem sou eu?
+
++++
+
+Gustavo T. B. Tamanaka
+Engenheiro Mecânico - UFSCar
+Dessenvolvedor Web e Embarcados.
 
 ## Wordpress
 

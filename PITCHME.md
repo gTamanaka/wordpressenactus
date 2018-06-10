@@ -26,7 +26,18 @@ Os *themes* em suma alteram diretamente a aparência do site, como a cor da barr
 
 ---
 
+## Plugins
+
++++
+*Plugins* tem por funcionalidade adicionar a página funcionalidades extras, como formulários, *pop-up*, rolagem automática.
+
++++
+
 ## Elementor
+
++++
+
+O Elementor é um tipo de plugin do tipo *page builder* e tem por funcionalidade permitir a construção do contéudo de páginas sem a necessidade de conhecimento em programação.
 
 +++
 ```
@@ -43,30 +54,29 @@ Resultado:
     <p>Esse é o conteudo do card</p> 
 </div>
 
++++
+
+## Hands On
+
 ---
+
 ## Theme Compatível
+
 +++
 
 **Busca** Which Themes Work Best with Elementor?
 
 +++
+
+Utilizaremos o Phlox
+
++++
+
 ### Customizando o tema
 
-```
-.navbar{
-	background-color:#2c2c2c
-}
-.navbar.navbar-transparent{
-	background-color:#2c2c2c;
-		background-color:rgba(0,0,0,0);
-}
-.navbar button.navbar-toggle, .navbar, .navbar-default .navbar-nav>.active>a {
-	color:white
-}
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-	background-color:rgba(0,0,0,0.2);
-}
-```
++++
+
+Alguns pontos do tema podem ser customizados, como a cor da barra e que quais páginas serão exibidos no tema.
 ---
 
 # FIM
